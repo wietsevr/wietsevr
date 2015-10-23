@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://wietsevr.github.io
+title: Wietse Van Ransbeeck
+tagline: A log of everyday life
+description: Founder of CitizenLab. Passionate about leveraging technology to democratise services. Loves working in a co-working space in an undiscovered, bustling city. Coffee during the day, sake at night. <br />
+paginate: 10
