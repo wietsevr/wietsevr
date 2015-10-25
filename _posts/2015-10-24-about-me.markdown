@@ -3,7 +3,7 @@ published: true
 title: About Me
 layout: post
 ---
-Autodidactic entrepreneur who turned himself into a full stack web developer. Loves the intersection of design, development and marketing. A passion for leveraging technology in order to decentralise services.
+Autodidactic entrepreneur with a background in management, who turned himself into a full stack web developer. Loves the intersection of design, development and marketing. A passion for leveraging technology in order to decentralise services.
 
 Currently working hard with my team on helping cities to tap into the collective intelligence of their citizens. CitizenLab is a citizensourcing platform on which citizens co-create their city. Have a look at [our website](http://citizenlab.co) to learn more.
 
