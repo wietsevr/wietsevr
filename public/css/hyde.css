@@ -105,6 +105,36 @@ a.sidebar-nav-item:focus {
   margin: 0 auto;
 }
 
+/* Social Menu */
+
+ul {
+  overflow: auto;
+}
+
+ul li {
+  list-style-type: none;
+  float: left;
+}
+
+ul li a i {
+  background: #205D7A;
+  color: #fff;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  font-size: 25px;
+  text-align: center;
+  margin-right: 10px;
+  padding-top: 15%;
+}
+
+ul li a i {
+  transition: all 0.2s ease-in-out;
+}
+ul li a i:hover {
+  opacity: .7;
+}
+
 /* Sticky sidebar
  *
  * Add the `sidebar-sticky` class to the sidebar's container to affix it the
