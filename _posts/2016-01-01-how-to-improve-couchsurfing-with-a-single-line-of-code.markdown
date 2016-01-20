@@ -6,7 +6,7 @@ tags: [CouchSurfing, UI, design, travel]
 categories: [Travel]
 permalink: a-social-couchsurfing
 ---
-I am a fervent user of CouchSurfing. Thanks to their platform and huge community of people from all over the world, learning about the local culture and making new international friends got much more accessible.
+I am an avid user of CouchSurfing. Thanks to their platform and huge community of people from all over the world, learning about the local culture and making new international friends got much more accessible.
 
 With a single line of code they could make their platform much more social. Like many other travellers, I have my travel mate with whom I'm always on the road. Nevertheless, CouchSurfing doesn't offer the option to make a request in the name of multiple users. Obviously, the host wants to know who I'm bringing with me as well.
 
