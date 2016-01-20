@@ -4,7 +4,6 @@ title: Making CouchSurfing More Social With A Single Line Of Code
 layout: post
 tags: [CouchSurfing, UI, design, travel]
 categories: [Travel]
-permalink: a-more-social-couchsurfing
 ---
 I am a fervent user of CouchSurfing. Thanks to their platform and huge community of people from all over the world, learning about the local culture and making new international friends got much more accessible.
 
