@@ -1,7 +1,7 @@
 ---
 published: true
 title: About Me
-layout: post
+layout: page
 permalink: hello
 ---
 My dream when I was a kid was to become a war journalist. I'm 22 years old now and I still have this untameable drive to find truth that is beyond what is known at the surface. The unsolvable dilemma between entrepreneurship -- or better: the quest for autonomy and freedom -- and journalism won't disappear quickly. It's very likely I'll start my own media company one day.
