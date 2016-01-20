@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Making CouchSurfing More Social With A Single Line Of Code
 layout: post
 tags: [CouchSurfing, UI, design, travel]
