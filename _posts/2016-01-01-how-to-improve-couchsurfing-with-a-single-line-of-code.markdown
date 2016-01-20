@@ -1,6 +1,6 @@
 ---
 published: false
-title: How to improve CouchSurfing with a single line of code
+title: Making CouchSurfing More Social With A Single Line Of Code
 layout: post
 ---
 I am a fervent user of CouchSurfing. I'm writing this blog post from Nagoya, where I celebrated New Year with a warm Japanese family. Thanks to their platform and huge community with people from all over the world, learning about the local culture and making new international friends got much more accessible.
