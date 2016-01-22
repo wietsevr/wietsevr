@@ -2,6 +2,8 @@
 published: true
 title: On Creative Kleptomanics
 layout: post
+tags: [creativity, stealing, kleptomaniac, bowie, jobs, picasso]
+categories: [creativity]
 ---
 As Picasso once famously said: 
 
@@ -15,6 +17,7 @@ One of the best artists has left us last week and called himself "a tasteful thi
 
 Bowie: **"Not by any means. More like a tasteful thief. The only art I’ll ever study is stuff that I can steal from. I do think that my plagiarism is effective. Why does an artist create, anyway? The way I see it, if you’re an inventor, you invent something that you hope people can use. I want art to be just as practical. Art can be a political reference, a sexual force, any force that you want, but it should be usable. What the hell do artists want? Museum pieces? The more I get ripped off, the more flattered I get. But I’ve caused a lot of discontent, because I’ve expressed my admiration for other artists by saying, ‘Yes, I’ll use that,’ or, ‘Yes, I took this from him and this from her.’ Mick Jagger, for example, is scared to walk into the same room as me even thinking any new idea. He knows I’ll snatch it."**
 
+Another great thief to steal from:
+
 [![Steve Jobs on Stealing](https://i.ytimg.com/vi/CW0DUg63lqU/hqdefault.jpg)](https://www.youtube.com/watch?v=CW0DUg63lqU)
 
-Even Sir Steve agrees: ()[]
