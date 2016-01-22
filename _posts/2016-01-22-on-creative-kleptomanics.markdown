@@ -1,6 +1,6 @@
 ---
 published: true
-title: On Creative Kleptomanics
+title: On Creative Kleptomaniacs
 layout: post
 tags: [creativity, stealing, kleptomaniac, bowie, jobs, picasso]
 categories: [creativity]
