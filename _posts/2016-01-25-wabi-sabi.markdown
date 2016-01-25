@@ -11,7 +11,7 @@ I need to go back in time for a moment.
 
 Late August, my girlfriend Aline and I arrived in Japan and visited the extraordinarily beautiful Kyoto. By bicycle we discovered almost every single temple and garden in the city. One of the things we visited was called the Ryoanji temple, known for its Zen garden (in Japanese called *karesansui* - dry landscape garden). This is how the garden looks like:
 
-[http://img.timeinc.net/time/photoessays/2011/travel_kyoto/03_ryoanji.jpg]
+![](http://img.timeinc.net/time/photoessays/2011/travel_kyoto/03_ryoanji.jpg)
 
 The garden consists of fifteen rocks, placed in raked sand. 
 
@@ -23,16 +23,16 @@ The emptiness and the minimalism create a feeling of absolute tranquility.
 
 
 
-
+_______________
 ## 6 months later
 
-After having read the relatively small book called ('Wabi-Sabi: for Artists, Designers, Poets & Philosophers')[https://www.goodreads.com/book/show/42190.Wabi_Sabi] by Leonard Koren, I felt in a much better position to reflect on the Zen experience I had back in this famous garden. 
+After having read the relatively small book called ['Wabi-Sabi: for Artists, Designers, Poets & Philosophers'](https://www.goodreads.com/book/show/42190.Wabi_Sabi) by Leonard Koren, I felt in a much better position to reflect on the Zen experience I had back in this famous garden. 
 
 The raked sand represented a flow of temporary, organic life. Transience and impermanence. I cannot get more Wabi-Sabi than this. Wabi-Sabi is namely considered one of the highest forms of art in Japanese society. The simplicity, authenticity, honesty and modesty of this small garden in Kyoto is art in its purest form to be clearly recognised in Japanese everyday life.
 
 This honesty and authenticity also results from imperfection. An example often referred to are the bowls that show an imperfection. My personal experience makes me think of all these tiny, imperfect glasses used for sake. 
 
-[https://img1.etsystatic.com/047/0/9941691/il_570xN.739959813_c67s.jpg]
+[](https://img1.etsystatic.com/047/0/9941691/il_570xN.739959813_c67s.jpg)
 
 ## The Antithesis of Wabi-Sabi
 
@@ -40,10 +40,8 @@ A previously isolated island nation that nowadays increasingly starts hankering 
 
 But it can get worse. In every somewhat urbanised space, there are so-called *pachinkos*.
 
- [http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/0x/ft/p00xftgs.jpg]
+ [](http://ichef.bbci.co.uk/wwfeatures/624_351/images/live/p0/0x/ft/p00xftgs.jpg)
 
 Compare it to our Western casino's, with the only difference that pachinko is actually the name of the game. Japanese people -- especially elderly... and oh yeah, there are many -- sometimes sit there for more than 24 hours. Yup, they have restrooms and serve food in there. It works as a kind of pinball game, during which you have to try to catch the most valuable balls. As gambling is strictly forbidden in Japan, once you've catched a ball, you have to go exchange your ball for your prize outside of the pachinko, often a hundred meters away. 
 
 Even a bustling city such as Tokyo with 37 million inhabitants (if you incorporate the agglomeration), feels like a collection of diverse villages. It's only these pachinkos, with their 150+ decibels and flashing neon lights, that kills the serenity and forms the antithesis of the Zen-making Wabi Sabi.
-
-
