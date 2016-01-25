@@ -2,6 +2,8 @@
 published: true
 title: Wabi Sabi
 layout: post
+tags: [japan, design, tokyo]
+categories: [japan]
 ---
 I hadn't heard from this concept one month ago. Although it was clear from my six months stay in Japan that aesthetics are subtly everywhere, I could not name it yet. Reading about **Wabi Sabi** gave me insights about what this omnipresence of aesthetics really represents.
 
