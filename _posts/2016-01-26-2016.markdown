@@ -1,0 +1,29 @@
+---
+published: true
+title: 2016: the Year of the Output
+layout: post
+categories: [general]
+---
+I have to face it. Whenever I have 5 minutes spare -- be it that I'm waiting for the elevator, hopping on the bus or going to the restroom for a quick job -- I take out my smartphone, desperately hoping to get a quick glimpse of what's happening in the world.
+
+I don't consider this necessarily a bad thing. Thanks to the intelligent algorithms behind Facebook, Medium and Pocket, the information that is flooding me is more or less what I want to read. That's why I'm convinced that you have to set boundaries for yourself on how much information you daily want to absorb. 
+
+As we spend as much time in a virtual world (online) as real-life world (offline) today, it's key to build your own interface online. In developer terms it would sound better:
+
+> Pick the right stack!
+
+## Films, books, articles, arts, impressions, information, experiences
+
+What do they all have in common? 
+
+They're **input**. 
+
+I absolutely enjoy absorbing as much information as possible in order to expand my horizon, accumulate knowledge and get new insights. But at the end of 2015, I realised that I didn't do enough with these insights. 
+
+## The Year of Output
+
+That's why I set the goal for myself to convert my input into output. Not necessarily for others, but for myself. I want to keep it low-key. No barriers to write a quick recap about insights or do a little write-up about something's that top of mind. 
+
+Producing more output will allow me to better connect the dots. It will also push me to put things in perspective and reflect on things I learned from that ever-dominating input. 
+
+So, **2016 = less input + more output**.
